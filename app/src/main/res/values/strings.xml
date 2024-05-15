@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="tab_description">Tab navigation for different sections</string>
+    <string name="view_pager_description">View pager for switching between tabs</string>
+</resources>

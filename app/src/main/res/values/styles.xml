@@ -1,0 +1,19 @@
+<resources>
+    <style name="CommonButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:backgroundTint">@color/colorPrimaryDark</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <style name="BeigeButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:backgroundTint">@color/colorBeige</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+</resources>
